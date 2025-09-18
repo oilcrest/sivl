@@ -5,7 +5,7 @@ This repository contains data and code for manuscript J. Kinnari, F. Verdoja, V.
 ## Setting up
 Clone this repository on your computer.
 
-Update on Nov 23, 2023: Pretrained checkpoint has been removed. Please contact author for acccess to it.
+Update on September 18, 2025: Due to recent global events, the pretrained checkpoint is no longer available for download, even upon request.
 
 Install [Anaconda](https://www.anaconda.com/). Create a new environment using the provided yml file:
 
